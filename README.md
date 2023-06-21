@@ -1,5 +1,7 @@
 # **De-makeup Transfer**
 
+**Clone CPM and checkpoints from https://github.com/VinAIResearch/CPM**
+
 **1.** Using Makeup Transfer model to transform non-makeup to makeup image.Then use these 2 images to do data de-makeup (input: photo
 makeup and the output is an image without makeup). (train=1000, val=100, test=100)
 
